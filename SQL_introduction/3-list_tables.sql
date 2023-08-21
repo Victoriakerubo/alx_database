@@ -1,5 +1,6 @@
 -- 3-list_tables.sql
 
 -- List all tables in the specified database
-USE Victoria_Kerubo;  
+USE your_database_name;  -- Replace "your_database_name" with the actual database name
 SHOW TABLES;
+
