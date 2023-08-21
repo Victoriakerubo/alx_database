@@ -1,6 +1,13 @@
+
 -- 3-list_tables.sql
 
--- List all tables in the specified database
-USE hbtn_0c_0;  -- Replace with the actual database name
+-- create_database.sql
+
+CREATE DATABASE IF NOT EXISTS Tables_in_mysql;
+
+-- list_tables.sql
+
+USE Tables_in_mysql;
 SHOW TABLES;
+
 
