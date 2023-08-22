@@ -10,8 +10,6 @@ CREATE TABLE IF NOT EXISTS force_name (
 
 -- Inserting the first row
 INSERT INTO force_name (id, name) VALUES (1, 'Holberton School');
-
--- Inserting additional rows
 INSERT INTO force_name (id, name) VALUES (2, 'Python is cool');
 INSERT INTO force_name (id, name) VALUES (3, 'Holberton');
 INSERT INTO force_name (id, name) VALUES (4, 'School');
